@@ -1,6 +1,6 @@
 # MDIO-20-21
 Trabalho realizado no âmbito da disciplina MDIO
 
-TP1:20 </br>
-TP2:19 </br>
-TP3:20
+Nota TP1: 20/20 </br>
+Nota TP2: 19/20 </br>
+Nota TP3: 20/20
